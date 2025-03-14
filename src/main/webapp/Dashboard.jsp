@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Admin
-  Date: 3/10/2025
-  Time: 8:13 PM
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
@@ -77,11 +70,11 @@
                 </div>
                 <div class="d-flex gap-2">
                     <button class="btn btn-primary" onclick="showLeaderboard()">
-                        <i class="bi bi-trophy me-2"></i>Leaderboard
+                        <i class="bi bi-trophy me-2">Leaderboard</i>
                     </button>
                     <button class="btn btn-primary" onclick="showResults()">Results</button>
                     <button class="btn btn-danger" onclick="logout()">
-                        <i class="bi bi-box-arrow-right me-2"></i>Log Out
+                        <i class="bi bi-box-arrow-right me-2">Log Out</i>
                     </button>
                 </div>
             </div>
@@ -137,12 +130,12 @@
 
 <%
     // Check if user is logged in
-    Boolean isAuthenticated = (Boolean) session.getAttribute("authenticated");
+    Boolean isAuthenticated = (Boolean) session.getAttribute("isUser");
     if (isAuthenticated == null || !isAuthenticated) {
-        response.sendRedirect("signup-login.jsp");
+        response.sendRedirect("login.jsp");
         return;
     }
-    String username = (String) session.getAttribute("username");
+    String username = (String) session.getAttribute("userUsername");
 %>
 <!-- Bootstrap JS Bundle with Popper -->
 <script src="./assets/bootstrap.bundle.min.js"></script>

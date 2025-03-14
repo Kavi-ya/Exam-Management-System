@@ -9,7 +9,8 @@
 <div class="container text-center mt-5">
     <h1>Welcome to the Online Examination System</h1>
     <p>Test your knowledge and track your progress.</p>
-    <a href="./login.jsp" class="btn btn-primary">Login</a>
+    <a href="./login.jsp" class="btn btn-primary">Login.jsp</a>
+    <a href="./userLogin" class="btn btn-primary">Login</a>
     <a href="./signup-login.jsp" class="btn btn-success">Sign Up</a>
     <a href="./adminLogin.jsp" class="btn btn-outline-info">Admin Login</a>
     <a href="./adminDashboard.jsp" class="btn btn-outline-secondary">Admin Dashboard</a>

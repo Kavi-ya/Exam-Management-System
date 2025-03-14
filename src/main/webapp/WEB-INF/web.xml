@@ -18,7 +18,27 @@
         <servlet-name>AdminLoginServlet</servlet-name>
         <url-pattern>/adminLogin</url-pattern>
     </servlet-mapping>
-
+    
+    <!-- User Login Servlet -->
+    <servlet>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <servlet-class>com.exam.servlets.UserLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <url-pattern>/userLogin</url-pattern>
+    </servlet-mapping>
+    
+    <!-- User Registration Servlet -->
+    <servlet>
+        <servlet-name>UserRegistrationServlet</servlet-name>
+        <servlet-class>com.exam.servlets.UserRegistrationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserRegistrationServlet</servlet-name>
+        <url-pattern>/userRegister</url-pattern>
+    </servlet-mapping>
+    
     <servlet>
         <servlet-name>AdminLogoutServlet</servlet-name>
         <servlet-class>com.exam.servlets.LogoutServlet</servlet-class>
@@ -47,4 +67,3 @@
     </servlet-mapping>
 
 </web-app>
-

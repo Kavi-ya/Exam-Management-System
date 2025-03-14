@@ -1,18 +1,26 @@
 [
-    {
-        "id": "U001",
-        "username": "admin",
-        "password": "admin123",
-        "email": "admin@example.com",
-        "name": "Administrator",
-        "role": "admin"
-    },
-    {
-        "id": "U002",
-        "username": "student1",
-        "password": "student123",
-        "email": "student1@example.com",
-        "name": "John Doe",
-        "role": "student"
-    }
+  {
+    "id": "U001",
+    "username": "demouser",
+    "password": "password123",
+    "email": "demo@example.com",
+    "name": "Demo User",
+    "role": "user"
+  },
+  {
+    "id": "U002",
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@gmail.com",
+    "name": "Administrator",
+    "role": "admin"
+  },
+  {
+    "id": "U003",
+    "username": "manager",
+    "password": "manager123",
+    "email": "123@gmail.com",
+    "name": "Manager User",
+    "role": "manager"
+  }
 ]

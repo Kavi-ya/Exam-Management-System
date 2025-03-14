@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-public class AdminDashboardDataServlet extends HttpServlet {
+public class UserDashboardDataservlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
     @Override

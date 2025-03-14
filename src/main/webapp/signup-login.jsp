@@ -17,31 +17,31 @@
         </div>
         <div class="card-body">
             <!-- Login Form -->
-            <form id="loginForm">
+            <form id="loginForm" action="userRegister" method="post">
                 <div class="mb-3">
                     <label for="username" class="form-label">Username</label>
-                    <input type="text" class="form-control" id="username" placeholder="Enter username">
+                    <input type="text" class="form-control" id="username" name="username" placeholder="Enter username">
                 </div>
                 <div class="mb-3">
                     <label for="password" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="password" placeholder="Enter password">
+                    <input type="password" class="form-control" id="password" name="password" placeholder="Enter password">
                 </div>
                 <button type="submit" class="btn btn-primary">Login</button>
             </form>
 
             <!-- Sign Up Form (Hidden by default) -->
-            <form id="signupForm" style="display: none;" action="register" method="post">
+            <form id="signupForm" style="display: none;" action="userRegister" method="post">
                 <div class="mb-3">
                     <label for="newUsername" class="form-label">Username</label>
-                    <input type="text" class="form-control" id="newUsername" placeholder="Choose username">
+                    <input type="text" class="form-control" id="newUsername" name="username" placeholder="Choose username">
                 </div>
                 <div class="mb-3">
                     <label for="email" class="form-label">Email</label>
-                    <input type="email" class="form-control" id="email" placeholder="Enter email">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter email">
                 </div>
                 <div class="mb-3">
                     <label for="newPassword" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="newPassword" placeholder="Choose password">
+                    <input type="password" class="form-control" id="newPassword" name="password" placeholder="Choose password">
                 </div>
                 <button type="submit" class="btn btn-primary">Sign Up</button>
             </form>

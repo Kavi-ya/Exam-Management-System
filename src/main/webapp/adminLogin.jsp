@@ -88,8 +88,74 @@
         </div>
     </div>
 </div>
-
 <!-- Bootstrap JS Bundle with Popper -->
 <script src="./assets/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
+
+<script>/*
+    document.getElementById('loginForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+        const username = document.getElementById('username').value.trim();
+        const password = document.getElementById('password').value.trim();
+
+        fetch('userLogin', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: 'username=' + encodeURIComponent(username) + '&password=' + encodeURIComponent(password)
+        })
+            .then(response => response.text())
+            .then(data => {
+                if (data === 'success') {
+                    window.location.href = 'Dashboard.jsp';
+                } else if (data === 'admin') {
+                    window.location.href = 'admin-dashboard.jsp';
+                } else {
+                    alert('Login failed. Please check your username and password.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Login failed. Please try again.');
+            });
+    });
+
+    // Note: The signupForm code is kept but commented out since the form doesn't exist on this page
+    
+    document.getElementById('signupForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+        const username = document.getElementById('newUsername').value;
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('newPassword').value;
+
+        fetch('register', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: 'username=' + encodeURIComponent(username) + '&email=' + encodeURIComponent(email) + '&password=' + encodeURIComponent(password)
+        })
+            .then(response => response.text())
+            .then(data => {
+                if (data === 'success') {
+                    alert('Registration successful! Please login.');
+                    // Switch to login form
+                    document.getElementById('loginForm').style.display = 'block';
+                    document.getElementById('signupForm').style.display = 'none';
+                    document.getElementById('formTitle').textContent = 'Login';
+                    document.getElementById('toggleButton').textContent = 'Sign Up';
+                    isLogin = true;
+                } else {
+                    alert('Registration failed. Username may already exist.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Registration failed. Please try again.');
+            });
+    });
+    */
+</script>

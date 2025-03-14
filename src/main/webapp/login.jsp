@@ -15,14 +15,19 @@
     <div class="login-card shadow">
         <div class="card-body">
             <h2 class="fw-bold mb-4" id="formTitle">Login</h2>
-            <form id="loginForm">
+            <% if(request.getAttribute("error") != null) { %>
+                <div class="alert alert-danger">
+                    <%= request.getAttribute("error") %>
+                </div>
+            <% } %>
+            <form id="loginForm" action="userLogin" method="post">
                 <div class="mb-3">
                     <label for="username" class="form-label">Username</label>
-                    <input type="text" class="form-control" id="username" placeholder="Username">
+                    <input type="text" class="form-control" id="username" placeholder="Username" name="username">
                 </div>
                 <div class="mb-3">
                     <label for="password" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="password" placeholder="Password">
+                    <input type="password" class="form-control" id="password" placeholder="Password" name="password">
                 </div>
                 <button type="submit" class="btn btn-primary">Login</button>
             </form>
@@ -40,7 +45,7 @@
         const username = document.getElementById('username').value.trim();
         const password = document.getElementById('password').value.trim();
 
-        fetch('login', {
+        fetch('userLogin', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',
@@ -63,6 +68,8 @@
             });
     });
 
+    // Note: The signupForm code is kept but commented out since the form doesn't exist on this page
+    /* 
     document.getElementById('signupForm').addEventListener('submit', function (event) {
         event.preventDefault();
         const username = document.getElementById('newUsername').value;
@@ -95,9 +102,7 @@
                 alert('Registration failed. Please try again.');
             });
     });
-
-    var encodedValue = encodeURIComponent("some value here");
-    console.log(encodedValue);
+    
 </script>
 
 <!-- Bootstrap JS Bundle with Popper -->
