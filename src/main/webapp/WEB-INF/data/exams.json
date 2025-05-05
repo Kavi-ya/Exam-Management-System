@@ -1,0 +1,98 @@
+[
+  {
+    "examId": "EX001",
+    "examName": "Midterm Examination",
+    "courseId": "CSE303",
+    "duration": 120,
+    "totalMarks": 100,
+    "startDate": "2025-04-01T09:00:00Z",
+    "endDate": "2025-04-01T11:00:00Z"
+  },
+  {
+    "examId": "EX002",
+    "examName": "Final Examination",
+    "courseId": "CSE303",
+    "duration": 180,
+    "totalMarks": 100,
+    "startDate": "2025-06-15T09:00:00Z",
+    "endDate": "2025-06-15T12:00:00Z"
+  },
+  {
+    "examId": "EX850036",
+    "examName": "TestforExam",
+    "courseId": "CSE303",
+    "description": "\u003cp\u003eTeacher\u003c/p\u003e",
+    "duration": 60,
+    "totalMarks": 100,
+    "passingMarks": 40,
+    "status": "published",
+    "createdBy": "TE25997286",
+    "startDate": "2025-04-11T01:41:00Z",
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showResults": false,
+      "allowReview": false,
+      "preventBacktracking": false,
+      "requireWebcam": false
+    },
+    "modifiedAt": "2025-04-11T20:08:07.858943900",
+    "questions": [
+      "q1744315762665258",
+      "q1744315762666205"
+    ],
+    "createdAt": "2025-03-23 14:14:37"
+  },
+  {
+    "examId": "EX396638",
+    "examName": "OOP Final Exam",
+    "courseId": "CSE201",
+    "description": "\n                    This examination assesses the fundamental understanding of Object-Oriented Programming concepts. It is designed to evaluate both theoretical knowledge and practical application skills in areas such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction. The test is divided into two sections:Section A â Multiple Choice Questions (50 Marks)This section consists of 5 multiple-choice questions. Each question carries 4 marks. Only one answer is correct for each question.Section B â Short Answer Questions (50 Marks)This section includes 5 short answer questions. Each question is designed to test the studentâs understanding of core OOP principles with coding examples nd conceptual clarity. Each question carries 10 marks.\n                ",
+    "duration": 60,
+    "totalMarks": 100,
+    "passingMarks": 40,
+    "status": "published",
+    "startDate": "2025-05-05T10:00:00Z",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "questions": [
+      "q1746362950760903",
+      "q1746362950760871",
+      "q174636357328214",
+      "q1746363628115191",
+      "q1746363719603766",
+      "q1746364598996340",
+      "q174636480315690",
+      "q1746364829252545",
+      "q1746364862483748",
+      "q1746364986115302"
+    ],
+    "createdBy": "TE25258707",
+    "createdAt": ""
+  },
+  {
+    "examId": "EX096523",
+    "examName": "IP Mid Exam",
+    "courseId": "CSE201",
+    "description": "\u003cp\u003eIP Mid Exam Paper\u003c/p\u003e",
+    "duration": 30,
+    "totalMarks": 50,
+    "passingMarks": 24,
+    "status": "published",
+    "createdBy": "TE25258707",
+    "startDate": "2025-05-05T12:02:00Z",
+    "settings": {
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showResults": true,
+      "allowReview": false,
+      "preventBacktracking": false,
+      "requireWebcam": false
+    },
+    "modifiedAt": "2025-05-04T23:12:41.476866600",
+    "questions": [
+      "q1746379882795993",
+      "q1746379974061451"
+    ],
+    "createdAt": ""
+  }
+]

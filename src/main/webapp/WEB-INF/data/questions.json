@@ -1,0 +1,865 @@
+[
+  {
+    "questionId": "q1742734748929268",
+    "questionText": "Second Question",
+    "courseId": "CSE405",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 18:30:07",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742737756790114",
+    "questionText": "What is your Name ?",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 3,
+    "points": 5,
+    "options": [],
+    "correctAnswer": "Janiya",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 19:20:46",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742737767526272",
+    "questionText": "What is the servlet Name ?",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [],
+    "correctAnswer": "Tomcat",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 19:20:46",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742737817557315",
+    "questionText": "What is the servlet ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": "B",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 19:20:46",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742739521682912",
+    "questionText": "First Question updated",
+    "courseId": "CSE405",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 19:50:43",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742739565229977",
+    "questionText": "Second Question isn\u0027t",
+    "courseId": "CSE405",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 19:50:43",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742753960349167",
+    "questionText": "1. What is the primary function of Oriented in the context of Object Oriented Programming?",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 23:50:51",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742753980940123",
+    "questionText": " What is the primary function of Oriented in the context of Object Oriented Programming? ",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 23:50:51",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742753986596664",
+    "questionText": "3What is the primary function of Oriented in the context of Object Oriented Programming?",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 23:50:52",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174275399919683",
+    "questionText": "4. What is the primary function of Oriented in the context of Object Oriented Programming?",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 23:50:52",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742726977335153",
+    "questionText": "Sample question 1742726977335153 for exam EX074911",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 1,
+    "points": 5,
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742726977336766",
+    "questionText": "Sample question 1742726977336766 for exam EX074911",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 2,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742727040959128",
+    "questionText": "Sample question 1742727040959128 for exam EX074911",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 3,
+    "points": 5,
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742727262806685",
+    "questionText": "Sample question 1742727262806685 for exam EX342152",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 3,
+    "points": 2,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742727262806844",
+    "questionText": "Sample question 1742727262806844 for exam EX342152",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "Sample answer for q1742727262806844",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742728984795905",
+    "questionText": "Sample question 1742728984795905 for exam EX052953",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 3,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "Sample answer for q1742728984795905",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174272898479531",
+    "questionText": "Sample question 174272898479531 for exam EX052953",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 3,
+    "points": 5,
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742734504033391",
+    "questionText": "Sample question 1742734504033391 for exam EX603265",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 3,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "Sample answer for q1742734504033391",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742734504033402",
+    "questionText": "Sample question 1742734504033402 for exam EX603265",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "Sample answer for q1742734504033402",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742734748930755",
+    "questionText": "Sample question 1742734748930755 for exam EX807415",
+    "courseId": "CSE405",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 3,
+    "points": 5,
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "A",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-23 20:17:48",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742826409077331",
+    "questionText": "What is the primary function of Oriented in the context of Object Oriented Programming ?",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 19:59:53",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742826409078926",
+    "questionText": "What is the primary function of Programming in the context of Object Oriented Programming ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": "A",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 19:59:53",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174282649231986",
+    "questionText": "What is the primary function of Object in the context of Object Oriented Programming ?",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [],
+    "correctAnswer": "Yes",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 19:59:54",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742826519663916",
+    "questionText": "What is the primary function of Management in the context of Database Management Systems?",
+    "courseId": "CSE201",
+    "questionType": "essay",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [],
+    "correctAnswer": "",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 19:59:54",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742830798692",
+    "questionText": "Question 5",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 1,
+    "points": 5,
+    "options": [
+      "Option A",
+      "Option B"
+    ],
+    "correctAnswer": "B",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 14:41:04",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742829831669",
+    "questionText": "Sample question 1742829831669 for exam EX051893",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 1,
+    "points": 2,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 15:50:12",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742832937716",
+    "questionText": "Question 6",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "ONE",
+      "TWO"
+    ],
+    "correctAnswer": "B",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 16:06:51",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742834910172",
+    "questionText": "Question 7",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "Hello",
+      "Hi",
+      "Dev"
+    ],
+    "correctAnswer": "B",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 16:06:51",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742835344365",
+    "questionText": "Question 08",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 16:06:51",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742841252702",
+    "questionText": "Question 9",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-24 16:06:51",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742875444263684",
+    "questionText": "Q1",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-25 09:36:29",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174287544426411",
+    "questionText": "Q2",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-25 09:36:29",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742884475307682",
+    "questionText": "Question 1",
+    "courseId": "CSE201",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-25 12:06:00",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1742884475308661",
+    "questionText": "Question 2",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [],
+    "correctAnswer": "Yes",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-25 12:06:00",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1743098304508887",
+    "questionText": "This is the question 1 ",
+    "courseId": "CSE303",
+    "questionType": "essay",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [],
+    "correctAnswer": "",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-27 23:30:21",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174309840334683",
+    "questionText": "This is the question 2",
+    "courseId": "CSE303",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-03-27 23:30:21",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174400471264647",
+    "questionText": "Hello world",
+    "courseId": "CSE303",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-04-07 11:18:39",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174400471264687",
+    "questionText": "hii",
+    "courseId": "CSE303",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "B",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-04-07 11:18:39",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1744315762665258",
+    "questionText": "Teacher 1",
+    "courseId": "CSE303",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-04-10 20:15:13",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1744315762666205",
+    "questionText": "Teacher 2",
+    "courseId": "CSE303",
+    "questionType": "true_false",
+    "difficultyLevel": 2,
+    "points": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-04-11 01:40:50",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746362950760903",
+    "questionText": "Which of the following is not a pillar of OOP ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [
+      "Inheritance",
+      "Encapsulation",
+      "Compilation",
+      "Polymorphism"
+    ],
+    "correctAnswer": "C",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746362950760871",
+    "questionText": "What is encapsulation ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [
+      "Wrapping data and methods into a single unit",
+      "Deriving new classes from existing ones",
+      "Hiding the implementation details",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174636357328214",
+    "questionText": "Which keyword is used to inherit a class in Java ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [
+      "this",
+      "new",
+      "import",
+      "extends"
+    ],
+    "correctAnswer": "D",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746363628115191",
+    "questionText": "What is method overloading ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [
+      "Defining methods with same name but different parameters",
+      "Defining methods with same name and same parameters",
+      "Inheriting a method from superclass",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746363719603766",
+    "questionText": "Which of the following allows a subclass to use methods of a superclass ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Abstraction"
+    ],
+    "correctAnswer": "B",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746364598996340",
+    "questionText": "Define class and object with an example ?\n\nclass Car {\n    String color;\n    void start() {\n        System.out.println(\"Car started\");\n    }\n}\nCar myCar \u003d new Car(); // Object creation\n",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "A class is a blueprint for objects. It defines properties and methods, An object is an instance of a class",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q174636480315690",
+    "questionText": "What is the difference between method overloading and method overriding ?",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "Overloading: Same method name, different parameters, in the same class.  Overriding: Subclass provides a new implementation for a method defined in the parent class, with the same signature.",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746364829252545",
+    "questionText": "Explain the concept of abstraction with an example.\n\nabstract class Animal {\n    abstract void sound();\n}\nclass Dog extends Animal {\n    void sound() {\n        System.out.println(\"Barks\");\n    }\n}\n",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "Abstraction means hiding internal details and showing only essential features.",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746364862483748",
+    "questionText": "What are access modifiers in OOP ?",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "public: accessible everywhere",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746364986115302",
+    "questionText": "What is a constructor ? How is it different from a method ?",
+    "courseId": "CSE201",
+    "questionType": "short_answer",
+    "difficultyLevel": 2,
+    "points": 10,
+    "options": [],
+    "correctAnswer": "A constructor is a special method that is called when an object is created. It has no return type and its name is the same as the class.",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-05-04 18:59:56",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746379882795993",
+    "questionText": "Which of the following is not a pillar of OOP ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "Inheritance",
+      "Encapsulation",
+      "Compilation",
+      "Polymorphism"
+    ],
+    "correctAnswer": "C",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-04-10 20:15:13",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  },
+  {
+    "questionId": "q1746379974061451",
+    "questionText": "What is encapsulation ?",
+    "courseId": "CSE201",
+    "questionType": "multiple_choice",
+    "difficultyLevel": 2,
+    "points": 25,
+    "options": [
+      "Wrapping data and methods into a single unit",
+      "Deriving new classes from existing ones",
+      "Hiding the implementation details",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "createdBy": "IT24102083",
+    "createdAt": "2025-04-10 20:15:13",
+    "modifiedAt": "2025-04-10 20:15:13",
+    "active": true
+  }
+]

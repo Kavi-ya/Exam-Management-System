@@ -1,0 +1,348 @@
+[
+  {
+    "username": "demouser",
+    "password": "password123",
+    "email": "demo@example.com",
+    "role": "student"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@gmail.com",
+    "role": "admin"
+  },
+  {
+    "username": "manager",
+    "password": "0795151defba7a4b5dfa89170de46277",
+    "email": "123@gmail.com",
+    "role": "teacher",
+    "lastLogin": "2025-05-03T03:58:00.537169200"
+  },
+  {
+    "userId": "ST25360710",
+    "username": "User123",
+    "password": "bbbfefb6422767460ab55d44b90019b5",
+    "email": "User123@gmail.com",
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-03-20T23:46:00.819063600",
+    "lastLogin": "2025-03-25T12:03:37.099179600",
+    "profileImage": "/images/student_avatars/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-03-20",
+      "enrollmentNumber": "123",
+      "course": "OOP",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "OOP2025"
+    }
+  },
+  {
+    "userId": "ST25413431",
+    "username": "TestUser",
+    "password": "110a3810a893ddf1efe4931edb54d163",
+    "email": "TestUser@mail.com",
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-03-22T14:17:25.583468",
+    "lastLogin": "2025-03-25T10:45:53.287564200",
+    "profileImage": "/images/student_avatars/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-03-22",
+      "enrollmentNumber": "123",
+      "course": "TestUser",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "TestUser2025"
+    }
+  },
+  {
+    "userId": "ST25267934",
+    "username": "Userlogin7",
+    "password": "5cf77bb0153a56876fcfe2482c6e5143",
+    "email": "Userlogin7@gmail.com",
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-03-22T14:49:03.937176600",
+    "lastLogin": "2025-03-22T14:49:03.937176600",
+    "profileImage": "/images/student_avatars/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-03-22",
+      "enrollmentNumber": "123",
+      "course": "OOP",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "OOP2025"
+    }
+  },
+  {
+    "userId": "ST25267864",
+    "username": "Userlogin90",
+    "password": "5cf77bb0153a56876fcfe2482c6e5143",
+    "email": "Userlogin898@gmail.com",
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-03-22T14:49:03.937176600",
+    "lastLogin": "2025-03-22T14:49:03.937176600",
+    "profileImage": "/images/student_avatars/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-03-22",
+      "enrollmentNumber": "123",
+      "course": "OOP",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "OOP2025"
+    }
+  },
+  {
+    "userId": "ST24811713",
+    "username": "shanherath",
+    "password": "8c3e93d5ed4e51bc4356d451b51b273b",
+    "email": "shanherath@gmail.com",
+    "firstName": "shanherath",
+    "lastName": "shanherath",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-04-07T11:12:07.787968",
+    "lastLogin": "2025-04-07T11:26:02.386962300"
+  },
+  {
+    "userId": "TE25232585",
+    "username": "shanherath7",
+    "password": "f93aa051bb8ba793f6c6153366657425",
+    "email": "shanherath1@gmail.com",
+    "firstName": "shan",
+    "lastName": "herath",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-04-07T11:14:05.306678800",
+    "lastLogin": "2025-04-07T11:14:05.306678800",
+    "profileImage": "/images/teacher_avatars/default.jpg",
+    "teacherDetails": {
+      "joinDate": "2025-04-07",
+      "specialization": "eqwe",
+      "employeeId": "q",
+      "designation": "qweq",
+      "department": "q"
+    }
+  },
+  {
+    "userId": "ST76185897",
+    "username": "Teacher99",
+    "password": "c8cf0ae09be859f8310119a80515747b",
+    "email": "Teacher13@gmail.com",
+    "firstName": "Teacher13",
+    "lastName": "Teacher13",
+    "role": "teacher",
+    "status": "active",
+    "dateRegistered": "2025-04-11T01:02:44.606513300",
+    "lastLogin": "2025-04-11T01:03:15.503439900"
+  },
+  {
+    "userId": "TE25997286",
+    "username": "Teacher",
+    "password": "80c33d4796ca8b735454d793b2884ef2",
+    "email": "Teacher@gmail.com",
+    "firstName": "Teacher",
+    "lastName": "Testchanged",
+    "role": "teacher",
+    "status": "active",
+    "dateRegistered": "2025-04-11T01:38:33.493541500",
+    "lastLogin": "2025-05-04T03:44:32.936236500",
+    "profileImage": "./assets/images/teacher/Teacher_1746091836893.jpg",
+    "teacherDetails": {
+      "employeeId": "Teacher12",
+      "designation": "INSTRUCTOR",
+      "department": "OOP"
+    }
+  },
+  {
+    "userId": "ST24548639",
+    "username": "NewUser1223",
+    "password": "6ed04d4414fdb4c88d219ea55611db9b",
+    "email": "NewUser1223@gmail.com",
+    "firstName": "NewUser",
+    "lastName": "123",
+    "role": "teacher",
+    "status": "active",
+    "dateRegistered": "2025-04-16T23:44:52.768620200",
+    "lastLogin": "2025-04-16T23:44:52.768620200"
+  },
+  {
+    "userId": "ST15843299",
+    "username": "Test1234546456",
+    "password": "b0f8b1f13b270631b43a3a37a2758236",
+    "email": "456456456@gmail.com",
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-04-16T23:48:02.634746500",
+    "lastLogin": "2025-04-16T23:48:02.634746500"
+  },
+  {
+    "userId": "AD29646438",
+    "username": "897897987786",
+    "password": "ddbdac7600585762c9291d95e8b92d0e",
+    "email": "12389794@gmail.com",
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "role": "admin",
+    "status": "active",
+    "dateRegistered": "2025-04-17T00:18:16.670843",
+    "lastLogin": "2025-04-17T00:18:16.670843"
+  },
+  {
+    "userId": "ST25953917",
+    "username": "Student_testuser_1",
+    "password": "cab07804d8b3348316b395f223754f67",
+    "email": "studenttestuser1@gmail.com",
+    "firstName": "StudentFirst",
+    "lastName": "StudentLastchanged11",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-04-27T19:23:43.278616700",
+    "lastLogin": "2025-05-04T03:32:19.528684",
+    "profileImage": "./assets/images/student/ST25953917.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-04-27",
+      "enrollmentNumber": "IT1140",
+      "course": "Cyber Security",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "CyberSecurity2025"
+    }
+  },
+  {
+    "userId": "ST25952307",
+    "username": "123S@gmail.com",
+    "password": "dcc23a9d4cb06f2538adf614ccf7908e",
+    "email": "123S@gmail.com",
+    "firstName": "KK",
+    "lastName": "SS",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-04-30T19:26:05.231264",
+    "lastLogin": "2025-04-30T19:26:05.231264",
+    "profileImage": "./images/student_avatars/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-04-30",
+      "enrollmentNumber": "123",
+      "course": "OOP",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "OOP2025"
+    }
+  },
+  {
+    "userId": "ST25566504",
+    "username": "Krishmal-Dinidu",
+    "password": "86f8fde3530efddf7483de0d750dc304",
+    "email": "KrishmalDinidu@gmail.com",
+    "firstName": "Krishmal",
+    "lastName": "Dinidu",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-05-04T15:03:31.322273",
+    "lastLogin": "2025-05-04T23:28:07.613803400",
+    "profileImage": "./assets/images/student/ST25566504.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-05-04",
+      "enrollmentNumber": "IT24103866",
+      "course": "Artificial Itelligence",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "ArtificialItelligence2025"
+    }
+  },
+  {
+    "userId": "TE25258707",
+    "username": "Saviru-Kashmira",
+    "password": "7afdf6dc7c3910fbcdabe3015ac519f9",
+    "email": "SaviruKashmira@gmail.com",
+    "firstName": "Saviru",
+    "lastName": "Kashmira",
+    "role": "teacher",
+    "status": "active",
+    "dateRegistered": "2025-05-04T17:16:42.531024",
+    "lastLogin": "2025-05-05T05:17:20.277482100",
+    "profileImage": "./assets/images/teacher/default.jpg",
+    "teacherDetails": {
+      "joinDate": "2025-05-04",
+      "specialization": "SE",
+      "employeeId": "IT24100762",
+      "designation": "Lecturer",
+      "department": "FOC"
+    }
+  },
+  {
+    "userId": "ST25389255",
+    "username": "shanherath_1",
+    "password": "81a10c4b81e503a4f37f350b3d025b99",
+    "email": "shanherath_1@gmail.com",
+    "firstName": "Shan",
+    "lastName": "Herath",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-05-04T22:57:55.430800800",
+    "lastLogin": "2025-05-04T22:57:55.430800800",
+    "profileImage": "./assets/images/student/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-05-04",
+      "enrollmentNumber": "IT24103866",
+      "course": "OOP",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "OOP2025"
+    }
+  },
+  {
+    "userId": "TE25584126",
+    "username": "TeacherTest123",
+    "password": "4056fc3cb1ead8794461d995354812a5",
+    "email": "TeacherTest123@gmail.com",
+    "firstName": "TeacherTest ",
+    "lastName": "123",
+    "role": "teacher",
+    "status": "active",
+    "dateRegistered": "2025-05-04T23:00:56.464840800",
+    "lastLogin": "2025-05-04T23:08:47.009603100",
+    "profileImage": "./assets/images/teacher/default.jpg",
+    "teacherDetails": {
+      "joinDate": "2025-05-04",
+      "specialization": "IP",
+      "employeeId": "IT24100762",
+      "designation": "INSTRUCTOR",
+      "department": "FOC"
+    }
+  },
+  {
+    "userId": "ST25245861",
+    "username": "Kavindu-Sahan",
+    "password": "e9b9e0fc0d3760bf9d5a08a1ba95088a",
+    "email": "kavindusahansilva@gmail.com",
+    "firstName": "Kavindu",
+    "lastName": "Sahan",
+    "role": "student",
+    "status": "active",
+    "dateRegistered": "2025-05-05T05:13:32.417222300",
+    "lastLogin": "2025-05-05T05:13:32.417222300",
+    "profileImage": "./assets/images/student/default.jpg",
+    "studentDetails": {
+      "admissionDate": "2025-05-05",
+      "enrollmentNumber": "IT24102083",
+      "course": "Cyber Security",
+      "semester": 2.0,
+      "graduationYear": 2029.0,
+      "batchId": "CyberSecurity2025"
+    }
+  }
+]

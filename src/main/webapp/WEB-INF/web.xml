@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+    id="WebApp_ID" version="4.0">
+ 
+<display-name>Archetype Created Web Application</display-name>
+
+	<welcome-file-list>
+	<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+
+    <servlet>
+        <servlet-name>AdminLoginServlet</servlet-name>
+        <servlet-class>com.exam.servlets.AdminLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminLoginServlet</servlet-name>
+        <url-pattern>/adminLogin</url-pattern>
+    </servlet-mapping>
+    
+    <!-- User Login Servlet 
+    <servlet>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <servlet-class>com.exam.servlets.UserLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <url-pattern>/userLogin</url-pattern>
+    </servlet-mapping>-->
+    
+    <!-- User Registration Servlet 
+    <servlet>
+        <servlet-name>UserRegistrationServlet</servlet-name>
+        <servlet-class>com.exam.servlets.UserRegistrationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserRegistrationServlet</servlet-name>
+        <url-pattern>/userRegister</url-pattern>
+    </servlet-mapping>-->
+    
+    <servlet>
+        <servlet-name>AdminLogoutServlet</servlet-name>
+        <servlet-class>com.exam.servlets.LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminLogoutServlet</servlet-name>
+        <url-pattern>/adminLogout</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UserCountServlet</servlet-name>
+        <servlet-class>com.exam.servlets.UserCountServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserCountServlet</servlet-name>
+        <url-pattern>/UserCountServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AdminDashboardDataServlet</servlet-name>
+        <servlet-class>com.exam.servlets.AdminDashboardDataServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminDashboardDataServlet</servlet-name>
+        <url-pattern>/adminDashboardData</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Authentication Servlet -->
+	<servlet>
+    	<servlet-name>UserLoginServlet</servlet-name>
+    	<servlet-class>com.exam.servlets.UserLoginServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+    	<servlet-name>UserLoginServlet</servlet-name>
+    	<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+
+<!-- Student Registration Servlet -->
+<servlet>
+    <servlet-name>StudentRegisterServlet</servlet-name>
+    <servlet-class>com.exam.servlets.StudentRegisterServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>StudentRegisterServlet</servlet-name>
+    <url-pattern>/register-student</url-pattern>
+</servlet-mapping>
+
+<!-- Teacher Registration Servlet -->
+<servlet>
+    <servlet-name>TeacherRegisterServlet</servlet-name>
+    <servlet-class>com.exam.servlets.TeacherRegisterServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>TeacherRegisterServlet</servlet-name>
+    <url-pattern>/register-teacher</url-pattern>
+</servlet-mapping> 
+
+<servlet>
+    <servlet-name>QuestionServlet</servlet-name>
+    <servlet-class>com.exam.servlets.QuestionServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>QuestionServlet</servlet-name>
+    <url-pattern>/questionSave</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+    <servlet-name>QuestionServlet</servlet-name>
+    <url-pattern>/questionGet</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+    <servlet-name>QuestionServlet</servlet-name>
+    <url-pattern>/questionList</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+    <servlet-name>QuestionServlet</servlet-name>
+    <url-pattern>/questionDelete</url-pattern>
+</servlet-mapping>
+
+
+</web-app>

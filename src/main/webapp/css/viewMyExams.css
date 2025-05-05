@@ -1,0 +1,234 @@
+/* General Styles */
+body {
+    background-color: #f5f8fa;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Modal Styles */
+.modal-content {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 15px 20px;
+}
+
+.modal-title {
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    border-top: 1px solid #eee;
+    padding: 15px;
+}
+
+/* Form Controls */
+.form-control:focus, .form-select:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 0.25rem rgba(102, 126, 234, 0.25);
+}
+
+.form-label {
+    font-weight: 600;
+    color: #444;
+    margin-bottom: 0.5rem;
+}
+
+/* Button Styles */
+.btn-primary {
+    background-color: #667eea;
+    border-color: #667eea;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #5a6ecd;
+    border-color: #5a6ecd;
+}
+
+.btn-outline-primary {
+    color: #667eea;
+    border-color: #667eea;
+}
+
+.btn-outline-primary:hover {
+    background-color: #667eea;
+    color: white;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover, .btn-danger:focus {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+/* Question Type Options */
+#editTrueFalseContainer,
+#editOptionsContainer,
+#editShortAnswerContainer {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    margin-bottom: 15px;
+    border: 1px solid #e9ecef;
+}
+
+/* Option Items in Multiple Choice */
+.edit-option-item {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: white;
+    padding: 8px;
+    border: 1px solid #e9ecef;
+}
+
+.edit-option-item:hover {
+    background-color: #f8f9fa;
+}
+
+.edit-option-item .form-check-input {
+    margin-right: 10px;
+}
+
+/* Alert Message */
+#statusMessage {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    font-weight: 500;
+    padding: 12px 20px;
+}
+
+/* Ensure all buttons in the exam card have proper margin */
+.exam-actions button {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+/* Question List Styling */
+.question-list {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid #e9ecef;
+}
+
+.question-list h6 {
+    color: #4a5568;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.question-list-item {
+    background-color: white;
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    border: 1px solid #e9ecef;
+}
+
+.question-list-item:hover {
+    box-shadow: 0 5px 10px rgba(0,0,0,0.08);
+}
+
+.question-text {
+    font-weight: 600;
+    color: #2d3748;
+    margin-bottom: 10px;
+}
+
+.question-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 0.9rem;
+    color: #718096;
+}
+
+.question-meta > div:not(.action-buttons) {
+    margin-right: 15px;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 5px;
+}
+
+/* True/False Radio Buttons */
+.form-check-input:checked {
+    background-color: #667eea;
+    border-color: #667eea;
+}
+
+/* Add Option Button */
+#addEditOption {
+    margin-top: 10px;
+}
+
+/* Status Badges */
+.status-badge {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.status-published {
+    background-color: #48bb78;
+    color: white;
+}
+
+.status-draft {
+    background-color: #4a5568;
+    color: white;
+}
+
+.status-pending {
+    background-color: #f6ad55;
+    color: white;
+}
+
+.status-closed {
+    background-color: #e53e3e;
+    color: white;
+}
+
+/* Add some responsive styles */
+@media (max-width: 768px) {
+    .question-meta {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .question-meta > div {
+        margin-bottom: 5px;
+    }
+    
+    .action-buttons {
+        margin-top: 10px;
+        width: 100%;
+        justify-content: flex-start;
+    }
+}
