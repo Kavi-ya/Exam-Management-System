@@ -113,7 +113,7 @@ Contributions are welcome!
 ## 📬 Contact
 
 - GitHub: [Kavi-ya](https://github.com/Kavi-ya)
-- Email: your-email@example.com
+- Email: kavindusahansilva@example.com
 
 ---
 
