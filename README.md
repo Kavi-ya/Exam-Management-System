@@ -34,7 +34,7 @@ A dynamic web-based application for managing online examinations and student res
   - Available Exam Listing
   - Online Exam Interface
   - Instant Result Display
-  - Performance Analysis
+  - Performance Analysis (Leader Board)
 
 - 🛠️ **System Features**
   - JSON-based Data Persistence
